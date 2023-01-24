@@ -1,0 +1,8 @@
+{
+  "bybitURL": "https://api.bybit.com",
+  "bybitURLmainnet": "https://api.bybit.com",
+  "bybitURLtestnet": "https://api-testnet.bybit.com",
+  "bybitURLbytick": "https://api.bytick.com",
+
+  "storeCredentials": true
+}
