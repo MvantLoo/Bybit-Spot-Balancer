@@ -1,8 +1,8 @@
 # CorpusCrypto :: Bybit Spot Balancer
 Powershell script for balancing tokens in a Bybit Spot account.
 
-**! TIP: Use a Subaccount !**
-**! Balancing is using USDT as base (quote) token !**
+**! TIP: Use a Subaccount !**   
+**! Balancing is using USDT as base (quote) token !**   
 **! Make sure you have USDY in your account !**
 
 - Add USDT in your ByBit spot account
